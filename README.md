@@ -1,9 +1,12 @@
 <readme>
-#iOS 14 Classdumps CarPlay classes
-#iOS 14 Headers for spying with ARKit hashtag creepy
-#iOS 15.7.2 -#iOS 16.2.2 headers for same classes
-#SBIconListView iOS 15.7.2 (coming soon) as well as other icon layout classes.
+
+#iOS 15.7.2 headers for SpringBoard (and SBHome) mainly in relation to icon layouts, but there's so much other stuff too.
+#SBDockIconListView and #SBFloatingDockIconListView
+#SBIconListModel has lots of rotation methods that are new
 #SBFolder related classes 
-#SBHPodIcon related classes
 #Random Apple Internalz
+
+NOTE: These were all collected from an iPhone 7+ using the palera1n jailbreak, with tweaks ON.  Most of the headers should have minimal impact,
+but it wouldn't be a bad idea to double check.  I pretty much only have tweaks I mnade myself installed, so I'd recognize changes from my work.
+I think Snowboard is the main one that adds to or changes some headers, but even that has very few diffs
 </readme>
