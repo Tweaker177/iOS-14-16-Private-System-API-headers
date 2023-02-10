@@ -1,6 +1,6 @@
 <readme>
 
-#iOS 15.7.2 headers for SpringBoard (and SBHome) mainly in relation to icon layouts, but there's so much other stuff too.
+#iOS 15.7.2 headers for SpringBoard (and SBHome) mainly in relation to icon layouts, folders,App Library, and Widgets, but there's so much other stuff too.
 #SBDockIconListView and #SBFloatingDockIconListView
 #SBIconListModel has lots of rotation methods that are new
 #SBFolder related classes 
